@@ -5,6 +5,11 @@ tagline: "What to do with this blog"
 tags : [My_Life]
 ---
 {% include JB/setup %}
+<style type="text/css">
+  body {
+    	background-color: #fafad2
+  }
+  </style>
 
 
 This is my first post. I'm gonna talk about my plans.
