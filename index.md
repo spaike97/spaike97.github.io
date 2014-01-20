@@ -4,8 +4,8 @@ title: Hello World!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
-
 ![image]({{ site.img_url }}/Miku.png) 
+
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
