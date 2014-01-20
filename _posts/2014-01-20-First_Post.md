@@ -5,7 +5,7 @@ tagline: "What to do with this blog"
 tags : [My_Life]
 ---
 {% include JB/setup %}
-<link rel="stylesheet" href="bkgrd2.css">
+<link rel="stylesheet" href="bkgrd3.css">
 
 This is my first post. I'm gonna talk about my plans.
 
