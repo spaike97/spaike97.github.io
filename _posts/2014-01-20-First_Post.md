@@ -2,7 +2,7 @@
 layout: post
 category : My_Life
 tagline: "What to do with this blog"
-tags : [My_Life]
+tags : [daily-life]
 ---
 {% include JB/setup %}
 
