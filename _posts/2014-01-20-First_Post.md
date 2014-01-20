@@ -26,4 +26,5 @@ This is my first post. I'm gonna talk about my plans.
 <	So far, there is no satisfactory(at least no satisfactory for me) Chinese-version answerbook to the practices included in the SICP. Yet I believe(May I be pretentious for one second :P) I'm capable of getting this done. So I gonna try it out. 
 
 # Have fun guys 
+
 # 玩得开心w
